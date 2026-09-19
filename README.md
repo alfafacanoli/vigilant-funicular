@@ -258,9 +258,4 @@ customElements.define('task-list', TaskList);
 </script>
 </body>
 </html>
-
-
-
-
-Sent from Proton Mail for Android. 
 ```
